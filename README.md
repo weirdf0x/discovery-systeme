@@ -7,32 +7,60 @@ Liste von Discovery-Systemen
 | Körperschaft                                                                                            | Suchsystem       | Suchbackend     | CMS              |
 | ------------------------------------------------------------------------------------------------------- | ---------------- | --------------- | ---------------- |
 | [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/)                                             |                  |                 | TYPO3            |
+| [KIT-Bibliothek](https://www.bibliothek.kit.edu/)                                                       | Primo            |                 |                  |
 | [Niedersächsische Staats- und Universitätsbibliothek Göttingen](http://www.sub.uni-goettingen.de/)      | Lukida           |                 | TYPO3            |
 | [Pollux - FID Politikwissenschaft](https://www.pollux-fid.de/)                                          | Eigenentwicklung | Solr            | Eigenentwicklung |
-| [PubPharm - FID Pharmazie](https://www.pubpharm.de/)                                                    | VuFind           | K10plus-Zentral |                  |
+| [PubPharm - FID Pharmazie](https://www.pubpharm.de/)                                                    | Qcovery          | K10plus-Zentral |                  |
+| [Ruhr-Universität Bochum, Universitätsbibliothek](http://www.ub.ruhr-uni-bochum.de)                     | EDS              | EDS             | Imperia          |
 | [Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden](http://www.slub-dresden.de/) |                  |                 | TYPO3            |
-| [Staats- und Universitätsbibliothek Bremen](https://suub.uni-bremen.de/)                                | CiXbase          | CiXbase         | Eigenentwicklung |
+| [Staats- und Universitätsbibliothek Bremen](https://suub.uni-bremen.de/)                                | Eigenentwicklung | CiXbase         | Eigenentwicklung |
 | [Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky](http://www.sub.uni-hamburg.de/)         | Qcovery          |                 | TYPO3            |
 | [Staatsbibliothek zu Berlin](https://staatsbibliothek-berlin.de/)                                       | EDS              | EDS             | TYPO3            |
+| [Technische Informationsbibliothek](https://www.tib.eu/)                                                |                  |                 | TYPO3            |
+| [Technische Universität München, Universitätsbibliothek](http://www.ub.tum.de)                          | TouchPoint       |                 | Drupal           |
+| [TH Köln Bibliothek](https://www.th-koeln.de/bibliothek)                                                |                  |                 | Imperia          |
+| [Universitäts- und Landesbibliothek Bonn](http://www.ulb.uni-bonn.de)                                   | VuFind           |                 | Plone            |
 | [Universitäts- und Landesbibliothek Bonn](http://www.ulb.uni-bonn.de/)                                  | VuFind           |                 | Plone            |
 | [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/)                        |                  |                 | FirstSpirit      |
+| [Universitäts- und Landesbibliothek Düsseldorf](http://www.ulb.hhu.de/)                                 | VuFind           |                 | TYPO3            |
 | [Universitäts- und Landesbibliothek Münster](http://www.ulb.uni-muenster.de/)                           |                  |                 |                  |
+| [Universitäts- und Landesbibliothek Sachsen-Anhalt](http://bibliothek.uni-halle.de)                     | EDS              | EDS             | MaGIC            |
 | [Universitäts- und Landesbibliothek Sachsen-Anhalt](https://bibliothek.uni-halle.de/)                   | EDS              | EDS             | MaGIC            |
+| [Universitäts- und Stadtbibliothek Köln](https://www.ub.uni-koeln.de/)                                  |                  |                 |                  |
+| [Universitätsbibliothek Augsburg](http://www.bibliothek.uni-augsburg.de)                                | TouchPoint       |                 |                  |
+| [Universitätsbibliothek Bielefeld](http://www.ub.uni-bielefeld.de)                                      | VuFind           |                 |                  |
 | [Universitätsbibliothek Braunschweig](https://www.tu-braunschweig.de/ub)                                | Qcovery          | K10plus-Zentral | TYPO3            |
+| [Universitätsbibliothek der Eberhard Karls Universität Tübingen](http://www.ub.uni-tuebingen.de)        | VuFind           |                 | TYPO3            |
+| [Universitätsbibliothek der Fernuniversität Hagen](http://www.fernuni-hagen.de/bibliothek)              |                  |                 | Imperia          |
+| [Universitätsbibliothek der Freien Universität Berlin](http://www.ub.fu-berlin.de)                      | Primo            |                 | Fiona            |
 | [Universitätsbibliothek der Humboldt-Universität zu Berlin](http://www.ub.hu-berlin.de/)                | Primo            |                 | Plone            |
 | [Universitätsbibliothek der LMU München](https://www.ub.uni-muenchen.de/)                               | TouchPoint       |                 | Fiona            |
+| [Universitätsbibliothek der RWTH Aachen](http://www.ub.rwth-aachen.de)                                  | TouchPoint       |                 | activeWeb        |
+| [Universitätsbibliothek der TU Berlin](https://www.tu.berlin/ub/)                                       | Primo            |                 | TYPO3            |
 | [Universitätsbibliothek der Universität Greifswald](https://ub.uni-greifswald.de/)                      |                  |                 | TYPO3            |
+| [Universitätsbibliothek Dortmund](http://www.ub.tu-dortmund.de)                                         |                  |                 |                  |
+| [Universitätsbibliothek Duisburg-Essen](https://www.uni-due.de/ub/)                                     | Primo            |                 | Imperia          |
+| [Universitätsbibliothek Erlangen-Nürnberg](http://www.ub.fau.de)                                        | TouchPoint       |                 | WordPress        |
 | [Universitätsbibliothek Freiburg](https://ub.uni-freiburg.de/)                                          | VuFind           | Solr            | TYPO3            |
+| [Universitätsbibliothek Gießen](http://www.uni-giessen.de/ub/)                                          |                  |                 | Plone            |
 | [Universitätsbibliothek Heidelberg](http://www.ub.uni-hd.de/)                                           |                  |                 |                  |
+| [Universitätsbibliothek J. C. Senckenberg Frankfurt](http://www.ub.uni-frankfurt.de)                    |                  |                 |                  |
+| [Universitätsbibliothek Kassel](https://www.uni-kassel.de/ub/)                                          |                  |                 | TYPO3            |
 | [Universitätsbibliothek Kiel](http://www.ub.uni-kiel.de/)                                               |                  |                 | Plone            |
 | [Universitätsbibliothek Leipzig](http://www.ub.uni-leipzig.de/)                                         | VuFind           |                 | TYPO3            |
+| [Universitätsbibliothek Mainz](http://www.ub.uni-mainz.de)                                              |                  |                 | Drupal           |
 | [Universitätsbibliothek Marburg](https://www.uni-marburg.de/de/ub)                                      |                  |                 | Plone            |
+| [Universitätsbibliothek Potsdam](https://www.ub.uni-potsdam.de/)                                        |                  |                 | TYPO3            |
+| [Universitätsbibliothek Regensburg](http://www.bibliothek.uni-regensburg.de/)                           | TouchPoint       |                 | TYPO3            |
+| [Universitätsbibliothek Stuttgart](http://www.ub.uni-stuttgart.de/)                                     | aDIS / VuFind    |                 |                  |
+| [Universitätsbibliothek Wuppertal](http://www.bib.uni-wuppertal.de)                                     |                  |                 | TYPO3            |
 | [Universitätsbibliothek Würzburg](https://www.bibliothek.uni-wuerzburg.de/)                             | TouchPoint       |                 | TYPO3            |
 
 ## Links
 
 ### Suchsysteme
 
+- [aDIS](https://www.astec.de/)
 - [EDS (EBSCO Discovery Service)](https://www.ebsco.com/products/ebsco-discovery-service)
 - [Lukida](https://www.lukida.org/)
 - [Primo](https://exlibrisgroup.com/products/primo-discovery-service/)
@@ -47,8 +75,12 @@ Liste von Discovery-Systemen
 
 ### CMS
 
+- [activeWeb](https://www.active-web.de/)
+- [Drupal](https://www.drupal.org/)
 - [Fiona](https://fiona.justrelate.com/)
 - [FirstSpirit](https://www.e-spirit.com/)
+- [Imperia](https://www.pirobase-imperia.com/)
 - [MaGIC](https://www.magic.uni-halle.de/)
 - [Plone](https://plone.org/)
 - [TYPO3](https://typo3.org/)
+- [WordPress](https://wordpress.org/)
