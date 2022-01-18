@@ -9,6 +9,7 @@ Liste von Discovery-Systemen
 | [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/)                                             |                  |                 | TYPO3            |
 | [Niedersächsische Staats- und Universitätsbibliothek Göttingen](http://www.sub.uni-goettingen.de/)      | Lukida           |                 | TYPO3            |
 | [Pollux - FID Politikwissenschaft](https://www.pollux-fid.de/)                                          | Eigenentwicklung | Solr            | Eigenentwicklung |
+| [PubPharm - FID Pharmazie](https://www.pubpharm.de/)                                                    | VuFind           | K10plus-Zentral |                  |
 | [Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden](http://www.slub-dresden.de/) |                  |                 | TYPO3            |
 | [Staats- und Universitätsbibliothek Bremen](https://suub.uni-bremen.de/)                                | CiXbase          | CiXbase         | Eigenentwicklung |
 | [Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky](http://www.sub.uni-hamburg.de/)         | Qcovery          |                 | TYPO3            |
