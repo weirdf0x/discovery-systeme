@@ -6,14 +6,14 @@ Liste von Discovery-Systemen
 
 | Körperschaft                                                                                            | Suchsystem       | Suchbackend     | CMS              |
 | ------------------------------------------------------------------------------------------------------- | ---------------- | --------------- | ---------------- |
-| [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/)                                             |                  | Solr            | TYPO3            |
+| [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/)                                             |                  | Solr lokal      | TYPO3            |
 | [KIT-Bibliothek](https://www.bibliothek.kit.edu/)                                                       | Primo            |                 |                  |
-| [Niedersächsische Staats- und Universitätsbibliothek Göttingen](http://www.sub.uni-goettingen.de/)      | Lukida           |                 | TYPO3            |
-| [Pollux - FID Politikwissenschaft](https://www.pollux-fid.de/)                                          | Eigenentwicklung | Solr            | Eigenentwicklung |
+| [Niedersächsische Staats- und Universitätsbibliothek Göttingen](http://www.sub.uni-goettingen.de/)      | Lukida           | K10plus-Zentral | TYPO3            |
+| [Pollux - FID Politikwissenschaft](https://www.pollux-fid.de/)                                          | Eigenentwicklung | Solr lokal      | Eigenentwicklung |
 | [PubPharm - FID Pharmazie](https://www.pubpharm.de/)                                                    | Qcovery          | K10plus-Zentral |                  |
 | [Ruhr-Universität Bochum, Universitätsbibliothek](http://www.ub.ruhr-uni-bochum.de)                     | EDS              | EDS             | Imperia          |
 | [Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden](http://www.slub-dresden.de/) |                  |                 | TYPO3            |
-| [Staats- und Universitätsbibliothek Bremen](https://suub.uni-bremen.de/)                                | Eigenentwicklung | CiXbase         | Eigenentwicklung |
+| [Staats- und Universitätsbibliothek Bremen](https://suub.uni-bremen.de/)                                | Eigenentwicklung | CiXbase lokal   | Eigenentwicklung |
 | [Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky](http://www.sub.uni-hamburg.de/)         | Qcovery          |                 | TYPO3            |
 | [Staatsbibliothek zu Berlin](https://staatsbibliothek-berlin.de/)                                       | EDS              | EDS             | TYPO3            |
 | [Technische Informationsbibliothek](https://www.tib.eu/)                                                |                  |                 | TYPO3            |
@@ -41,7 +41,7 @@ Liste von Discovery-Systemen
 | [Universitätsbibliothek Dortmund](http://www.ub.tu-dortmund.de)                                         |                  |                 |                  |
 | [Universitätsbibliothek Duisburg-Essen](https://www.uni-due.de/ub/)                                     | Primo            |                 | Imperia          |
 | [Universitätsbibliothek Erlangen-Nürnberg](http://www.ub.fau.de)                                        | TouchPoint       |                 | WordPress        |
-| [Universitätsbibliothek Freiburg](https://ub.uni-freiburg.de/)                                          | VuFind           | Solr            | TYPO3            |
+| [Universitätsbibliothek Freiburg](https://ub.uni-freiburg.de/)                                          | VuFind           | Solr lokal      | TYPO3            |
 | [Universitätsbibliothek Gießen](http://www.uni-giessen.de/ub/)                                          |                  |                 | Plone            |
 | [Universitätsbibliothek Heidelberg](http://www.ub.uni-hd.de/)                                           |                  |                 |                  |
 | [Universitätsbibliothek J. C. Senckenberg Frankfurt](http://www.ub.uni-frankfurt.de)                    |                  |                 |                  |
