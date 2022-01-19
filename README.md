@@ -19,11 +19,10 @@ Liste von Discovery-Systemen
 | [Technische Informationsbibliothek](https://www.tib.eu/)                                                |                  |                 | TYPO3            |
 | [Technische Universität München, Universitätsbibliothek](http://www.ub.tum.de)                          | TouchPoint       |                 | Drupal           |
 | [TH Köln Bibliothek](https://www.th-koeln.de/bibliothek)                                                |                  |                 | Imperia          |
-| [Universitäts- und Landesbibliothek Bonn](http://www.ulb.uni-bonn.de)                                   | VuFind           |                 | Plone            |
-| [Universitäts- und Landesbibliothek Bonn](http://www.ulb.uni-bonn.de/)                                  | VuFind           |                 | Plone            |
+| [Universitäts- und Landesbibliothek Bonn](http://www.ulb.uni-bonn.de)                                   | VuFind           |  Summon               | Plone            |
 | [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/)                        |                  |                 | FirstSpirit      |
 | [Universitäts- und Landesbibliothek Düsseldorf](http://www.ulb.hhu.de/)                                 | VuFind           |                 | TYPO3            |
-| [Universitäts- und Landesbibliothek Münster](http://www.ulb.uni-muenster.de/)                           |                  |                 |                  |
+| [Universitäts- und Landesbibliothek Münster](http://www.ulb.uni-muenster.de/)                           | ALBERT           |                 |                  |
 | [Universitäts- und Landesbibliothek Sachsen-Anhalt](http://bibliothek.uni-halle.de)                     | EDS              | EDS             | MaGIC            |
 | [Universitäts- und Landesbibliothek Sachsen-Anhalt](https://bibliothek.uni-halle.de/)                   | EDS              | EDS             | MaGIC            |
 | [Universitäts- und Stadtbibliothek Köln](https://www.ub.uni-koeln.de/)                                  |                  |                 |                  |
@@ -50,6 +49,7 @@ Liste von Discovery-Systemen
 | [Universitätsbibliothek Leipzig](http://www.ub.uni-leipzig.de/)                                         | VuFind           |                 | TYPO3            |
 | [Universitätsbibliothek Mainz](http://www.ub.uni-mainz.de)                                              |                  |                 | Drupal           |
 | [Universitätsbibliothek Marburg](https://www.uni-marburg.de/de/ub)                                      |                  |                 | Plone            |
+| [Universitätsbibliothek Paderborn](https://www.ub.uni-paderborn.de/)                                    |                  | Elasticsearch lokal | TYPO3 |
 | [Universitätsbibliothek Potsdam](https://www.ub.uni-potsdam.de/)                                        |                  |                 | TYPO3            |
 | [Universitätsbibliothek Regensburg](http://www.bibliothek.uni-regensburg.de/)                           | TouchPoint       |                 | TYPO3            |
 | [Universitätsbibliothek Stuttgart](http://www.ub.uni-stuttgart.de/)                                     | aDIS / VuFind    |                 |                  |
@@ -61,16 +61,19 @@ Liste von Discovery-Systemen
 ### Suchsysteme
 
 - [aDIS](https://www.astec.de/)
+- [ALBERT](https://www.kobv.de/services/hosting/albert/)
 - [EDS (EBSCO Discovery Service)](https://www.ebsco.com/products/ebsco-discovery-service)
 - [Lukida](https://www.lukida.org/)
 - [Primo](https://exlibrisgroup.com/products/primo-discovery-service/)
 - [Qcovery](https://www.qcovery.de/)
+
 - [TouchPoint](https://www.oclc.org/de/touchpoint.html)
 - [VuFind](https://vufind.org/)
 
 ### Suchbackends
-
+- [Elasticsearch](https://www.elastic.co/elasticsearch/)
 - [Solr](https://solr.apache.org/)
+- [Summon](https://exlibrisgroup.com/products/summon-library-discovery/)
 - [K10plus-Zentral](https://verbundwiki.gbv.de/display/VZG/K10plus-Zentral)
 
 ### CMS
