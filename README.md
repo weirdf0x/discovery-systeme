@@ -22,7 +22,7 @@ Liste von Discovery-Systemen
 | [Universitäts- und Landesbibliothek Bonn](http://www.ulb.uni-bonn.de)                                   | VuFind           |  Summon               | Plone            |
 | [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/)                        |                  |                 | FirstSpirit      |
 | [Universitäts- und Landesbibliothek Düsseldorf](http://www.ulb.hhu.de/)                                 | VuFind           |                 | TYPO3            |
-| [Universitäts- und Landesbibliothek Münster](http://www.ulb.uni-muenster.de/)                           | ALBERT           |                 |                  |
+| [Universitäts- und Landesbibliothek Münster](http://www.ulb.uni-muenster.de/)                           | ALBERT           |                 |         Imperia         |
 | [Universitäts- und Landesbibliothek Sachsen-Anhalt](http://bibliothek.uni-halle.de)                     | EDS              | EDS             | MaGIC            |
 | [Universitäts- und Landesbibliothek Sachsen-Anhalt](https://bibliothek.uni-halle.de/)                   | EDS              | EDS             | MaGIC            |
 | [Universitäts- und Stadtbibliothek Köln](https://www.ub.uni-koeln.de/)                                  |                  |                 |                  |
