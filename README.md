@@ -6,7 +6,7 @@ Liste von Discovery-Systemen
 
 | Körperschaft                                                                                            | Suchsystem       | Suchbackend     | CMS              |
 | ------------------------------------------------------------------------------------------------------- | ---------------- | --------------- | ---------------- |
-| [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/)                                             |                  |                 | TYPO3            |
+| [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/)                                             |                  | Solr            | TYPO3            |
 | [KIT-Bibliothek](https://www.bibliothek.kit.edu/)                                                       | Primo            |                 |                  |
 | [Niedersächsische Staats- und Universitätsbibliothek Göttingen](http://www.sub.uni-goettingen.de/)      | Lukida           |                 | TYPO3            |
 | [Pollux - FID Politikwissenschaft](https://www.pollux-fid.de/)                                          | Eigenentwicklung | Solr            | Eigenentwicklung |
