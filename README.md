@@ -63,6 +63,7 @@ Liste von Discovery-Systemen
 - [aDIS](https://www.astec.de/)
 - [ALBERT](https://www.kobv.de/services/hosting/albert/)
 - [EDS (EBSCO Discovery Service)](https://www.ebsco.com/products/ebsco-discovery-service)
+- [HDS (hebis Discovery System)](https://www.hebis.de/dienste/hebis-discovery-system/)
 - [Lukida](https://www.lukida.org/)
 - [Primo](https://exlibrisgroup.com/products/primo-discovery-service/)
 - [Qcovery](https://www.qcovery.de/)
