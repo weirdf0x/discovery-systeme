@@ -20,7 +20,7 @@ Liste von Discovery-Systemen
 | [Technische Universität München, Universitätsbibliothek](http://www.ub.tum.de)                          | TouchPoint       |                 | Drupal           |
 | [TH Köln Bibliothek](https://www.th-koeln.de/bibliothek)                                                |                  |                 | Imperia          |
 | [Universitäts- und Landesbibliothek Bonn](http://www.ulb.uni-bonn.de)                                   | VuFind           |  Summon               | Plone            |
-| [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/)                        |                  |                 | FirstSpirit      |
+| [Universitäts- und Landesbibliothek Darmstadt](https://www.ulb.tu-darmstadt.de/)                        | HeBIS Discovery System (HDS, basiert auf VUfind) |SolR (zentral bei HeBIS gehostet) / EDS | FirstSpirit |
 | [Universitäts- und Landesbibliothek Düsseldorf](http://www.ulb.hhu.de/)                                 | VuFind           |                 | TYPO3            |
 | [Universitäts- und Landesbibliothek Münster](http://www.ulb.uni-muenster.de/)                           | ALBERT           |                 |         Imperia         |
 | [Universitäts- und Landesbibliothek Sachsen-Anhalt](http://bibliothek.uni-halle.de)                     | EDS              | EDS             | MaGIC            |
@@ -63,6 +63,7 @@ Liste von Discovery-Systemen
 - [aDIS](https://www.astec.de/)
 - [ALBERT](https://www.kobv.de/services/hosting/albert/)
 - [EDS (EBSCO Discovery Service)](https://www.ebsco.com/products/ebsco-discovery-service)
+- [HDS (hebis Discovery System)](https://www.hebis.de/dienste/hebis-discovery-system/)
 - [Lukida](https://www.lukida.org/)
 - [Primo](https://exlibrisgroup.com/products/primo-discovery-service/)
 - [Qcovery](https://www.qcovery.de/)
