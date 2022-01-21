@@ -3,6 +3,7 @@
   "name": "Staats- und Universitätsbibliothek Bremen",
   "type": "library",
   "country": "de",
+  "url": "https://suub.uni-bremen.de/",
   "systems": [
     {
       "type": "search-engine",

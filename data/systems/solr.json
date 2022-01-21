@@ -1,5 +1,6 @@
 {
   "id": "solr",
   "name": "Apache Solr",
-  "types": ["search-engine"]
+  "types": ["search-engine"],
+  "url": "https://solr.apache.org/"
 }

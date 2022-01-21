@@ -3,6 +3,7 @@
   "name": "Pollux",
   "type": "fid",
   "country": "de",
+  "url": "https://www.pollux-fid.de/",
   "systems": [
     {
       "type": "search-engine",

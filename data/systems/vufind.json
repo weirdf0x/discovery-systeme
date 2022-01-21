@@ -1,5 +1,6 @@
 {
   "id": "vufind",
   "name": "VuFind",
-  "types": ["search-interface"]
+  "types": ["search-interface"],
+  "url": "https://vufind.org/"
 }

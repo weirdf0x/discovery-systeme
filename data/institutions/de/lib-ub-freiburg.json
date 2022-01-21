@@ -3,6 +3,7 @@
   "name": "Universitätsbibliothek Freiburg",
   "type": "library",
   "country": "de",
+  "url": "https://ub.uni-freiburg.de/",
   "systems": [
     {
       "type": "search-engine",

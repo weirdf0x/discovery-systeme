@@ -1,5 +1,6 @@
 {
   "id": "pazpar2",
   "name": "Pazpar2",
-  "types": ["search-engine"]
+  "types": ["search-engine"],
+  "url": "https://www.indexdata.com/resources/software/pazpar2/"
 }

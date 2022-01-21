@@ -3,6 +3,7 @@
   "name": "Bayerische Staatsbibliothek",
   "type": "library",
   "country": "de",
+  "url": "https://www.bsb-muenchen.de/",
   "systems": [
     {
       "type": "search-engine",

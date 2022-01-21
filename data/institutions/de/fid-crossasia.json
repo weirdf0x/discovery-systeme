@@ -3,6 +3,7 @@
   "name": "CrossAsia",
   "type": "fid",
   "country": "de",
+  "url": "https://crossasia.org/",
   "systems": [
     {
       "type": "search-engine",
