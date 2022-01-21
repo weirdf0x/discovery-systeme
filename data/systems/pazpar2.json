@@ -1,0 +1,5 @@
+{
+  "id": "pazpar2",
+  "name": "Pazpar2",
+  "types": ["search-engine"]
+}

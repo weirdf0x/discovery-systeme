@@ -1,0 +1,16 @@
+{
+  "id": "de:fid:crossasia",
+  "name": "CrossAsia",
+  "type": "fid",
+  "country": "de",
+  "systems": [
+    {
+      "type": "search-engine",
+      "systemId": "pazpar2"
+    },
+    {
+      "type": "cms",
+      "systemId": "typo3"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "id": "vufind",
+  "name": "VuFind",
+  "types": ["search-interface"]
+}

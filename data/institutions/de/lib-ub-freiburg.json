@@ -1,0 +1,20 @@
+{
+  "id": "de:lib:ub-freiburg",
+  "name": "Universitätsbibliothek Freiburg",
+  "type": "library",
+  "country": "de",
+  "systems": [
+    {
+      "type": "search-engine",
+      "systemId": "solr"
+    },
+    {
+      "type": "cms",
+      "systemId": "typo3"
+    },
+    {
+      "type": "search-interface",
+      "systemId": "vufind"
+    }
+  ]
+}

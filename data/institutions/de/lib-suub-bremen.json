@@ -1,0 +1,20 @@
+{
+  "id": "de:lib:suub-bremen",
+  "name": "Staats- und Universitätsbibliothek Bremen",
+  "type": "library",
+  "country": "de",
+  "systems": [
+    {
+      "type": "search-engine",
+      "systemId": "cixbase"
+    },
+    {
+      "type": "cms",
+      "systemId": "in-house-developed"
+    },
+    {
+      "type": "search-interface",
+      "systemId": "in-house-developed"
+    }
+  ]
+}

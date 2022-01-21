@@ -1,0 +1,5 @@
+{
+  "id": "cixbase",
+  "name": "CiXbase",
+  "types": ["search-engine", "search-interface", "cms"]
+}

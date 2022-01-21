@@ -1,0 +1,5 @@
+{
+  "id": "solr",
+  "name": "Apache Solr",
+  "types": ["search-engine"]
+}

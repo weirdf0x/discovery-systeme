@@ -1,0 +1,16 @@
+{
+  "id": "de:lib:bsb-muenchen",
+  "name": "Bayerische Staatsbibliothek",
+  "type": "library",
+  "country": "de",
+  "systems": [
+    {
+      "type": "search-engine",
+      "systemId": "solr"
+    },
+    {
+      "type": "cms",
+      "systemId": "typo3"
+    }
+  ]
+}

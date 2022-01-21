@@ -1,0 +1,20 @@
+{
+  "id": "de:fid:pollux",
+  "name": "Pollux",
+  "type": "fid",
+  "country": "de",
+  "systems": [
+    {
+      "type": "search-engine",
+      "systemId": "solr"
+    },
+    {
+      "type": "cms",
+      "systemId": "in-house-developed"
+    },
+    {
+      "type": "search-interface",
+      "systemId": "in-house-developed"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "id": "typo3",
+  "name": "TYPO3",
+  "types": ["cms"]
+}
