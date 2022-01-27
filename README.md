@@ -8,6 +8,7 @@ Liste von Discovery-Systemen
 | ------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------ | ---------------- |
 | [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/)                                             |                  | Solr lokal               | TYPO3            |
 | [CrossAsia](https://crossasia.org/)                                                                     |                  | Pazpar2                  | TYPO3            |
+| [Deutsches Literaturarchiv Marbach](https://www.dla-marbach.de//)                                       | TYPO3-find       | Solr lokal               | TYPO3            |
 | [Fachinformationsdienst Benelux](https://www.fid-benelux.de/) |VuFind||WordPress|
 | [Ibero-Amerikanisches Institut](https://www.iai.spk-berlin.de/)                                         | EDS              | EDS                      | TYPO3            |
 | [KIT-Bibliothek](https://www.bibliothek.kit.edu/)                                                       | Primo            |                          |                  |
@@ -74,6 +75,7 @@ Liste von Discovery-Systemen
 - [Primo](https://exlibrisgroup.com/products/primo-discovery-service/)
 - [Qcovery](https://www.qcovery.de/)
 - [TouchPoint](https://www.oclc.org/de/touchpoint.html)
+- [TYPO3-find](https://github.com/subugoe/typo3-find)
 - [VuFind](https://vufind.org/)
 
 ### Suchbackends
