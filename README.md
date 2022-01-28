@@ -9,14 +9,14 @@ Liste von Discovery-Systemen
 | [Bayerische Staatsbibliothek](https://www.bsb-muenchen.de/)                                             |                  | Solr lokal               | TYPO3            |
 | [CrossAsia](https://crossasia.org/)                                                                     |                  | Pazpar2                  | TYPO3            |
 | [Deutsches Literaturarchiv Marbach](https://www.dla-marbach.de//)                                       | TYPO3-find       | Solr lokal               | TYPO3            |
-| [Fachinformationsdienst Benelux](https://www.fid-benelux.de/) |VuFind||WordPress|
+| [Fachinformationsdienst Benelux](https://www.fid-benelux.de/)                                           | VuFind           |                          | WordPress        |
 | [Ibero-Amerikanisches Institut](https://www.iai.spk-berlin.de/)                                         | EDS              | EDS                      | TYPO3            |
 | [KIT-Bibliothek](https://www.bibliothek.kit.edu/)                                                       | Primo            |                          |                  |
 | [Niedersächsische Staats- und Universitätsbibliothek Göttingen](http://www.sub.uni-goettingen.de/)      | Lukida           | K10plus-Zentral          | TYPO3            |
 | [Pollux - FID Politikwissenschaft](https://www.pollux-fid.de/)                                          | Eigenentwicklung | Solr lokal               | Eigenentwicklung |
 | [PubPharm - FID Pharmazie](https://www.pubpharm.de/)                                                    | Qcovery          | K10plus-Zentral          |                  |
 | [Ruhr-Universität Bochum, Universitätsbibliothek](http://www.ub.ruhr-uni-bochum.de)                     | EDS              | EDS                      | Imperia          |
-| [Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden](http://www.slub-dresden.de/) |                  |                          | TYPO3            |
+| [Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden](http://www.slub-dresden.de/) | TYPO3-find       | Solr lokal               | TYPO3            |
 | [Staats- und Universitätsbibliothek Bremen](https://suub.uni-bremen.de/)                                | Eigenentwicklung | CiXbase lokal            | Eigenentwicklung |
 | [Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky](http://www.sub.uni-hamburg.de/)         | Qcovery          |                          | TYPO3            |
 | [Staatsbibliothek zu Berlin](https://staatsbibliothek-berlin.de/)                                       | EDS              | EDS                      | TYPO3            |
