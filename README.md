@@ -55,6 +55,7 @@ Liste von Discovery-Systemen
 | [Universitätsbibliothek Kiel](http://www.ub.uni-kiel.de/)                                               |                  |                          | Plone            |
 | [Universitätsbibliothek Leipzig](http://www.ub.uni-leipzig.de/)                                         | VuFind           |                          | TYPO3            |
 | [Universitätsbibliothek Mainz](http://www.ub.uni-mainz.de)                                              |                  |                          | Drupal           |
+| [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de)                                      | Primo            | Primo Central            |                  |
 | [Universitätsbibliothek Marburg](https://www.uni-marburg.de/de/ub)                                      |                  |                          | Plone            |
 | [Universitätsbibliothek Paderborn](https://www.ub.uni-paderborn.de/)                                    |                  | Elasticsearch lokal      | TYPO3            |
 | [Universitätsbibliothek Potsdam](https://www.ub.uni-potsdam.de/)                                        |                  |                          | TYPO3            |
